@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pojazdy>
+	<Kategoria NazwaKategorii="Samochody osobowe">
+		<Podkategoria NazwaPodkategorii="BMW">
+			<Pojazd>
+				<nazwa>5 Series</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>2018</rok_produkcji>
+				<pojemnosc_silnika>3.5</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>3 Series</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>2010</rok_produkcji>
+				<pojemnosc_silnika>2.5</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>X1</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>2015</rok_produkcji>
+				<pojemnosc_silnika>2.0</pojemnosc_silnika>
+				<rodzaj_napedu>Przód</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>X3</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>2019</rok_produkcji>
+				<pojemnosc_silnika>3.0</pojemnosc_silnika>
+				<rodzaj_napedu>4x4</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Mercedes">
+			<Pojazd>
+				<nazwa>C-Class</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>1993</rok_produkcji>
+				<pojemnosc_silnika>2.0</pojemnosc_silnika>
+				<rodzaj_napedu>Przód</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Audi">
+			<Pojazd>
+				<nazwa>A4</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>2019</rok_produkcji>
+				<pojemnosc_silnika>2.0</pojemnosc_silnika>
+				<rodzaj_napedu>Przód</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria NazwaKategorii="Samochody ciężarowe">
+		<Podkategoria NazwaPodkategorii="Volvo">
+			<Pojazd>
+				<nazwa>FH</nazwa>
+				<kraj_produkcji>Szwecja</kraj_produkcji>
+				<rok_produkcji>2010</rok_produkcji>
+				<pojemnosc_silnika>13.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>FMX</nazwa>
+				<kraj_produkcji>Szwecja</kraj_produkcji>
+				<rok_produkcji>2015</rok_produkcji>
+				<pojemnosc_silnika>11.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Scania">
+			<Pojazd>
+				<nazwa>R-Series</nazwa>
+				<kraj_produkcji>Szwecja</kraj_produkcji>
+				<rok_produkcji>2015</rok_produkcji>
+				<pojemnosc_silnika>12.7</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>P-Series</nazwa>
+				<kraj_produkcji>Szwecja</kraj_produkcji>
+				<rok_produkcji>2018</rok_produkcji>
+				<pojemnosc_silnika>9.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria NazwaKategorii="Motocykle">
+		<Podkategoria NazwaPodkategorii="Harley-Davidson">
+			<Pojazd>
+				<nazwa>Street Glide</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2022</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Iron 883</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2021</rok_produkcji>
+				<pojemnosc_silnika>0.883</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Road King</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2020</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Softail Slim</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2019</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Street Bob</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2018</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Fat Boy</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2017</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Breakout</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2016</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Heritage Classic</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2015</rok_produkcji>
+				<pojemnosc_silnika>1.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Night Rod Special</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2014</rok_produkcji>
+				<pojemnosc_silnika>1.3</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>Sportster Iron 1200</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2013</rok_produkcji>
+				<pojemnosc_silnika>1.2</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Yamaha">
+			<Pojazd>
+				<nazwa>YZF-R1</nazwa>
+				<kraj_produkcji>Japonia</kraj_produkcji>
+				<rok_produkcji>2022</rok_produkcji>
+				<pojemnosc_silnika>1.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Honda">
+			<Pojazd>
+				<nazwa>CBR1000RR</nazwa>
+				<kraj_produkcji>Japonia</kraj_produkcji>
+				<rok_produkcji>2021</rok_produkcji>
+				<pojemnosc_silnika>1.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Kawasaki">
+			<Pojazd>
+				<nazwa>Ninja ZX-10R</nazwa>
+				<kraj_produkcji>Japonia</kraj_produkcji>
+				<rok_produkcji>2020</rok_produkcji>
+				<pojemnosc_silnika>1.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Suzuki">
+			<Pojazd>
+				<nazwa>GSX-R1000</nazwa>
+				<kraj_produkcji>Japonia</kraj_produkcji>
+				<rok_produkcji>2019</rok_produkcji>
+				<pojemnosc_silnika>1.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Ducati">
+			<Pojazd>
+				<nazwa>Panigale V4</nazwa>
+				<kraj_produkcji>Włochy</kraj_produkcji>
+				<rok_produkcji>2022</rok_produkcji>
+				<pojemnosc_silnika>1.1</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="BMW">
+			<Pojazd>
+				<nazwa>S1000RR</nazwa>
+				<kraj_produkcji>Niemcy</kraj_produkcji>
+				<rok_produkcji>2022</rok_produkcji>
+				<pojemnosc_silnika>1.0</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Triumph">
+			<Pojazd>
+				<nazwa>Street Triple RS</nazwa>
+				<kraj_produkcji>Wielka Brytania</kraj_produkcji>
+				<rok_produkcji>2021</rok_produkcji>
+				<pojemnosc_silnika>0.8</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="KTM">
+			<Pojazd>
+				<nazwa>1290 Super Duke R</nazwa>
+				<kraj_produkcji>Austria</kraj_produkcji>
+				<rok_produkcji>2021</rok_produkcji>
+				<pojemnosc_silnika>1.3</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Aprilia">
+			<Pojazd>
+				<nazwa>RSV4 RF</nazwa>
+				<kraj_produkcji>Włochy</kraj_produkcji>
+				<rok_produkcji>2020</rok_produkcji>
+				<pojemnosc_silnika>1.1</pojemnosc_silnika>
+				<rodzaj_napedu>Tył</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria NazwaKategorii="Samoloty">
+		<Podkategoria NazwaPodkategorii="Boeing">
+			<Pojazd>
+				<nazwa>747</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>1968</rok_produkcji>
+				<pojemnosc_silnika>63,300</pojemnosc_silnika>
+				<rodzaj_napedu>Jet</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>787 Dreamliner</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>2011</rok_produkcji>
+				<pojemnosc_silnika>64,000</pojemnosc_silnika>
+				<rodzaj_napedu>Jet</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>777</nazwa>
+				<kraj_produkcji>USA</kraj_produkcji>
+				<rok_produkcji>1994</rok_produkcji>
+				<pojemnosc_silnika>44,590</pojemnosc_silnika>
+				<rodzaj_napedu>Jet</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+		<Podkategoria NazwaPodkategorii="Airbus">
+			<Pojazd>
+				<nazwa>A320</nazwa>
+				<kraj_produkcji>Francja</kraj_produkcji>
+				<rok_produkcji>1987</rok_produkcji>
+				<pojemnosc_silnika>27,000</pojemnosc_silnika>
+				<rodzaj_napedu>Jet</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>A380</nazwa>
+				<kraj_produkcji>Francja</kraj_produkcji>
+				<rok_produkcji>2005</rok_produkcji>
+				<pojemnosc_silnika>70,000</pojemnosc_silnika>
+				<rodzaj_napedu>Jet</rodzaj_napedu>
+			</Pojazd>
+			<Pojazd>
+				<nazwa>A350</nazwa>
+				<kraj_produkcji>Francja</kraj_produkcji>
+				<rok_produkcji>2013</rok_produkcji>
+				<pojemnosc_silnika>43,000</pojemnosc_silnika>
+				<rodzaj_napedu>Jet</rodzaj_napedu>
+			</Pojazd>
+		</Podkategoria>
+	</Kategoria>
+</Pojazdy>

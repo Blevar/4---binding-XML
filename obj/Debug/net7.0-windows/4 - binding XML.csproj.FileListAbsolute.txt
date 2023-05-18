@@ -1,0 +1,28 @@
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\bin\Debug\net7.0-windows\4 - binding XML.exe
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\bin\Debug\net7.0-windows\4 - binding XML.deps.json
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\bin\Debug\net7.0-windows\4 - binding XML.runtimeconfig.json
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\bin\Debug\net7.0-windows\4 - binding XML.dll
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\bin\Debug\net7.0-windows\4 - binding XML.pdb
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.csproj.AssemblyReference.cache
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\CategoriesWindow.g.cs
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\MainWindow.g.cs
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\App.g.cs
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML_MarkupCompile.cache
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML_MarkupCompile.lref
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\CategoriesWindow.baml
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\MainWindow.baml
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.g.resources
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.GeneratedMSBuildEditorConfig.editorconfig
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.AssemblyInfoInputs.cache
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.AssemblyInfo.cs
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.csproj.CoreCompileInputs.cache
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.dll
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\refint\4 - binding XML.dll
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.pdb
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML.genruntimeconfig.cache
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\ref\4 - binding XML.dll
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\App.baml
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\bin\Debug\net7.0-windows\Pojazdy.xml
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\4 - binding XML_Content.g.cs
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\VehicleView.g.cs
+H:\WSB\Sem IV - Programowanie .NET\4 - binding XML\obj\Debug\net7.0-windows\VehicleView.baml
